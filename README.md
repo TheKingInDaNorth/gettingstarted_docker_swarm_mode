@@ -1,0 +1,1 @@
+# gettingstarted_docker_swarm_mode
